@@ -82,4 +82,3 @@ f.content = lua_protobuf_source()
 
 stdout.write(response.SerializeToString())
 exit(0)
-
